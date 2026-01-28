@@ -1,5 +1,5 @@
 # Privacy Policy for Pure Count
-**Last updated: [Date]**
+**Last updated: [28-01-2026]**
 This Privacy Policy describes how **Pure Count** ("we", "us", or "our") handles your information.
 ## 1. Information Collection and Use
 **Pure Count** is an offline-first application. We do not require you to create an account, and we do not collect, store, or share your personal data (such as your name, email address, or phone number) on our servers.
